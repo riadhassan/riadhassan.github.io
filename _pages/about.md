@@ -9,24 +9,25 @@ profile:
   image: Riad_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6;">
+    <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6; text-align: center;">
+      <!-- Centered Email -->
       <p style="margin: 8px 0;">
-        <i class="fa-solid fa-at" style="margin-right: 8px; color: #000;"></i>
+        <i class="fa-solid fa-envelope" style="margin-right: 8px; color: #000;"></i>
         <a href="mailto:riad_hassan@outlook.com" style="text-decoration: none; color: #333;">
           riad_hassan@outlook.com
         </a>
       </p>
 
-      <!-- Social icons in one line -->
-      <div style="display: flex; gap: 16px; margin-top: 8px;">
+      <!-- Centered Social Icons -->
+      <div style="display: flex; justify-content: center; gap: 16px; margin-top: 8px;">
         <a href="https://github.com/riadhassan" target="_blank" style="color: #000; text-decoration: none;" title="GitHub">
-          <i class="fa-brands fa-github fa-lg"></i>
+          <i class="fa-brands fa-github"></i>
         </a>
         <a href="https://www.linkedin.com/in/riadhassan/" target="_blank" style="color: #000; text-decoration: none;" title="LinkedIn">
-          <i class="fa-brands fa-linkedin fa-lg"></i>
+          <i class="fa-brands fa-linkedin"></i>
         </a>
         <a href="https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en" target="_blank" style="color: #000; text-decoration: none;" title="Google Scholar">
-          <i class="ai ai-google-scholar-square ai"></i>
+          <i class="ai ai-google-scholar-square"></i>
         </a>
       </div>
     </div>
