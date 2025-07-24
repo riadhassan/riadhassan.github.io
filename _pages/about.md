@@ -12,7 +12,7 @@ profile:
     <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6; text-align: center;">
       <!-- Centered Email -->
       <p style="margin: 8px 0;">
-        <i class="fa-solid fa-envelope" style="margin-right: 8px; color: #000;"></i>
+        <i class="fa-solid fa-envelope fa-lg" style="margin-right: 8px; color: #000;"></i>
         <a href="mailto:riad_hassan@outlook.com" style="text-decoration: none; color: #333;">
           riad_hassan@outlook.com
         </a>
@@ -21,13 +21,13 @@ profile:
       <!-- Centered Social Icons -->
       <div style="display: flex; justify-content: center; gap: 16px; margin-top: 8px;">
         <a href="https://github.com/riadhassan" target="_blank" style="color: #000; text-decoration: none;" title="GitHub">
-          <i class="fa-brands fa-github"></i>
+          <i class="fa-brands fa-github fa-lg"></i>
         </a>
         <a href="https://www.linkedin.com/in/riadhassan/" target="_blank" style="color: #000; text-decoration: none;" title="LinkedIn">
-          <i class="fa-brands fa-linkedin"></i>
+          <i class="fa-brands fa-linkedin fa-lg"></i>
         </a>
         <a href="https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en" target="_blank" style="color: #000; text-decoration: none;" title="Google Scholar">
-          <i class="ai ai-google-scholar-square"></i>
+          <i class="ai ai-google-scholar-square ai-lg"></i>
         </a>
       </div>
     </div>
