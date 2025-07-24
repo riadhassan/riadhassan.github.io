@@ -9,9 +9,27 @@ profile:
   image: Riad_profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><i class="fa-solid fa-at"></i><a href="mailto:riad_hassan@outlook.com">riad_hassan@outlook.com</a></p>
-    <p><i class="fa-brands fa-github"></i><a href="https://github.com/riadhassan">github.com/riadhassan</a></p>
-    <p>Your City, State 12345</p>
+    <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6;">
+      <p style="margin: 8px 0;">
+        <i class="fa-solid fa-at" style="margin-right: 8px; color: #0077cc;"></i>
+        <a href="mailto:riad_hassan@outlook.com" style="text-decoration: none; color: #333;">
+          riad_hassan@outlook.com
+        </a>
+      </p>
+
+      <!-- Social icons in one line -->
+      <div style="display: flex; gap: 16px; margin-top: 8px;">
+        <a href="https://github.com/riadhassan" target="_blank" style="color: #000; text-decoration: none;" title="GitHub">
+          <i class="fa-brands fa-github fa-lg"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/riadhassan/" target="_blank" style="color: #0077b5; text-decoration: none;" title="LinkedIn">
+          <i class="fa-brands fa-linkedin fa-lg"></i>
+        </a>
+        <a href="https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en" target="_blank" style="color: #4285F4; text-decoration: none;" title="Google Scholar">
+          <i class="ai ai-google-scholar-square ai-3x"></i>
+        </a>
+      </div>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
