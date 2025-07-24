@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher \& Lecturer
+subtitle: Researcher & Lecturer
 
 profile:
   align: right
   image: Riad_profile.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6;">
       <p style="margin: 8px 0;">
-        <i class="fa-solid fa-at" style="margin-right: 8px; color: #0077cc;"></i>
+        <i class="fa-solid fa-at" style="margin-right: 8px; color: #000;"></i>
         <a href="mailto:riad_hassan@outlook.com" style="text-decoration: none; color: #333;">
           riad_hassan@outlook.com
         </a>
@@ -22,11 +22,11 @@ profile:
         <a href="https://github.com/riadhassan" target="_blank" style="color: #000; text-decoration: none;" title="GitHub">
           <i class="fa-brands fa-github fa-lg"></i>
         </a>
-        <a href="https://www.linkedin.com/in/riadhassan/" target="_blank" style="color: #0077b5; text-decoration: none;" title="LinkedIn">
+        <a href="https://www.linkedin.com/in/riadhassan/" target="_blank" style="color: #000; text-decoration: none;" title="LinkedIn">
           <i class="fa-brands fa-linkedin fa-lg"></i>
         </a>
-        <a href="https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en" target="_blank" style="color: #4285F4; text-decoration: none;" title="Google Scholar">
-          <i class="ai ai-google-scholar-square ai-3x"></i>
+        <a href="https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en" target="_blank" style="color: #000; text-decoration: none;" title="Google Scholar">
+          <i class="ai ai-google-scholar-square ai"></i>
         </a>
       </div>
     </div>
