@@ -9,29 +9,8 @@ profile:
   image: Riad_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-      
-      
-      <div font-size: 16px; line-height: 1.6; text-align: center;">
-      <!-- Centered Email -->
-      <div style="margin: 8px 0;">
-        <p>Riad Hassan</p>
-        <p>riad_hassan@outlook.com</p>
-      </div>
-
-      <!-- Centered Social Icons -->
-      <div style="display: flex; justify-content: center; gap: 16px; margin-top: 8px;">
-        <a href="https://github.com/riadhassan" target="_blank" style="color: #000; text-decoration: none;" title="GitHub">
-          <i class="fa-brands fa-github fa-lg"></i>
-        </a>
-        <a href="https://www.linkedin.com/in/riadhassan/" target="_blank" style="color: #000; text-decoration: none;" title="LinkedIn">
-          <i class="fa-brands fa-linkedin fa-lg"></i>
-        </a>
-        <a href="https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en" target="_blank" style="color: #000; text-decoration: none;" title="Google Scholar">
-          <i class="ai ai-google-scholar-square ai-lg"></i>
-        </a>
-      </div>
-    </div>
-
+      <p>Riad Hassan</p>
+      <p>riad_hassan@outlook.com</p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
