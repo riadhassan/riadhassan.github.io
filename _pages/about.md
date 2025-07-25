@@ -9,17 +9,10 @@ profile:
   image: Riad_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6; text-align: center;">
-      <!-- Centered Email -->
-      <p style="margin: 8px 0;">
-        <i class="fa-solid fa-envelope fa-lg" style="margin-right: 8px; color: #000;"></i>
-        <a href="mailto:riad_hassan@outlook.com" style="text-decoration: none; color: #333;">
-          riad_hassan@outlook.com
-        </a>
-      </p>
-
       <!-- Centered Social Icons -->
       <div style="display: flex; justify-content: center; gap: 16px; margin-top: 8px;">
+        <p>Riad Hassan</p>
+        <p>riad_hassan@outlook.com</p>
         <a href="mailto:riad_hassan@outlook.com" target="_blank" style="color: #000; text-decoration: none;" title="Email">
           <i class="fa-solid fa-envelope fa-lg"></i>
         </a>
@@ -33,7 +26,6 @@ profile:
           <i class="ai ai-google-scholar-square ai-lg"></i>
         </a>
       </div>
-    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
