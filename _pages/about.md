@@ -46,6 +46,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am **Riad Hassan**, a researcher and lecturer with a strong focus on **computer vision, medical image analysis, and deep learning**. I hold an MSc from Bangladesh University of Engineering and Technology **(BUET)** (GPA 3.92/4.00, top 1%), where my thesis introduced a **A uncertainty-driven boundary-refined CNN for medical image segmentation**. My research contributions include **Efficient segmentation network, attention-based architectures, adaptive loss functions for small tumor segmentation, and radiomics-driven cancer classification**, with publications in leading journals and conferences such as **PLOS ONE, and IEEE ISBI**. I am also part of the [BioRAIN research group](https://biorainlab.net/), collaborating on cutting-edge projects in biomedical imaging and AI.
+
+I am now actively **seeking a PhD opportunity** in the fields of **computer vision, deep learning, and medical imaging**, aiming to advance research on **robust segmentation models, multi-scale feature learning, and uncertainty quantification**. With hands-on experience in Python, PyTorch, and large-scale experimentation, I bring both technical expertise and a proven research record. My goal is to contribute to impactful, interdisciplinary research that bridges **AI and real-world healthcare challenges**.
+
+[**Google Scholar**](https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en) | [**GitHub**](https://github.com/riadhassan)
+
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
