@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: A complete list of my research publications and citations can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en).
+description: You can also find my articles on <a href="https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en">Google Scholar profile</a>.
 nav: true
 nav_order: 1
 ---

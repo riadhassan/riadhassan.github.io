@@ -20,6 +20,9 @@ profile:
 
       <!-- Centered Social Icons -->
       <div style="display: flex; justify-content: center; gap: 16px; margin-top: 8px;">
+        <a href="mailto:riad_hassan@outlook.com" target="_blank" style="color: #000; text-decoration: none;" title="Email">
+          <i class="fa-solid fa-envelope fa-lg"></i>
+        </a>
         <a href="https://github.com/riadhassan" target="_blank" style="color: #000; text-decoration: none;" title="GitHub">
           <i class="fa-brands fa-github fa-lg"></i>
         </a>
@@ -51,10 +54,3 @@ I am **Riad Hassan**, a researcher and lecturer with a strong focus on **compute
 I am now actively **seeking a PhD opportunity** in the fields of **computer vision, deep learning, and medical imaging**, aiming to advance research on **robust segmentation models, multi-scale feature learning, and uncertainty quantification**. With hands-on experience in Python, PyTorch, and large-scale experimentation, I bring both technical expertise and a proven research record. My goal is to contribute to impactful, interdisciplinary research that bridges **AI and real-world healthcare challenges**.
 
 [**Google Scholar**](https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en) | [**GitHub**](https://github.com/riadhassan)
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
