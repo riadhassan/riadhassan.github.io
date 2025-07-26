@@ -12,7 +12,7 @@ profile:
     <p>Riad Hassan</p>
     <p>riad_hassan@outlook.com</p>
 
-    <div class="social" style="text-align: center;">
+    <div class="social" style="text-align: left;">
       <div class="contact-icons" style="font-size: 1.5rem;">
         <a
           href="mailto:riad_hassan@outlook.com"
