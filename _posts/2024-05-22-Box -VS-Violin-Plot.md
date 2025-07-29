@@ -10,7 +10,7 @@ related_posts: true
 related_publications: false
 ---
 
-In one word, violin plot is more descriptive visualization than box plot. Can we use violin plot in all cases? The answer depends on the condition - we choose between box plot or violin plot based on our visualization needs {% cite krzywinski2014visualizing %}.
+In one word, violin plot is more descriptive visualization than box plot. Can we use violin plot in all cases? The answer depends on the condition - we choose between box plot or violin plot based on our visualization needs.
 
 **Example Dataset:**  
 Obtained marks in a course of four different sections (Random Data):
@@ -31,13 +31,13 @@ Obtained marks in a course of four different sections (Random Data):
 
 ## Comparative Analysis
 
-### Box Plot Characteristics {% cite mcgill1978variations %}:
+### Box Plot Characteristics:
 - Represents distribution using quartiles (Q1, median, Q3) and whiskers
 - Clearly shows median (middle line) and interquartile range (box edges)
 - Identifies outliers as individual points
 - Effective for comparing central tendency and spread between groups
 
-### Violin Plot Characteristics {% cite hintze1998violin %}:
+### Violin Plot Characteristics:
 - Combines box plot statistics with kernel density estimation
 - Width represents probability density at different values
 - Reveals multimodal distributions and subtle patterns
@@ -81,3 +81,4 @@ plt.subplot(1,2,2)
 sns.violinplot(x='section', y='marks', data=data)
 plt.title('Violin Plot - Math Exam Result')
 plt.show()
+```
