@@ -216,7 +216,7 @@
       "name": "Efficient Dual-Line Decoder Network for Multi-Organ Segmentation",
       "startDate": "2025-01",
       "endDate": "2025-12",
-      "summary": "Funded by ICT Division, Bangladesh (8000 USD)",
+      "summary": "Funded by ICT Division, Bangladesh",
       "highlights": [
         "Developed efficient segmentation architecture",
         "Work currently in progress"
@@ -226,7 +226,7 @@
       "name": "IoT-based Water Quality Detection",
       "startDate": "2019-01",
       "endDate": "2019-12",
-      "summary": "Funded by ICT Division, Bangladesh (5000 USD)",
+      "summary": "Funded by ICT Division, Bangladesh",
       "highlights": [
         "Developed water quality detection device",
         "Created web app for data analysis and map modeling"
@@ -255,10 +255,6 @@
       "keywords": ["Raspberry Pi", "STM32", "Arduino"]
     },
     {
-      "name": "Cloud Technologies",
-      "keywords": ["Cloud Platform 1", "Cloud Platform 2", "Cloud Platform 3"]
-    },
-    {
       "name": "Version Control & DevOps",
       "keywords": ["Git", "Docker"]
     }
@@ -273,8 +269,8 @@
     {
       "title": "University Merit Scholarship",
       "awarder": "Pabna University of Science and Technology",
-      "date": "2016-2019",
-      "summary": "Awarded for top result in the department"
+      "summary": "Awarded for top result in the department",
+      "highlights": ["Consecutive 4 years [2016-2019]"]
     }
   ],
   "languages": [
