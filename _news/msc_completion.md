@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully completed MSc from BUET! Thesis: *Uncertainty driven boundary refined CNN for medical image segmentation* :graduation_cap:
+Successfully completed MSc from BUET! Thesis: _Uncertainty driven boundary refined CNN for medical image segmentation_ :graduation_cap:
