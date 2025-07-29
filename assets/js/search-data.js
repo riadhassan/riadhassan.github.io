@@ -86,7 +86,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-efficient-multi-organ-segmentation",
           title: 'Efficient Multi-Organ Segmentation',
-          description: "A deep learning framework for efficient and accurate organ segmentation.",
+          description: "Funded by ICT Division",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Efficient_Organ_Segmentation/";
             },},{
