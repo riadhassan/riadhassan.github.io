@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper on prostate cancer grade classification accepted at *DICTA 2024*! :hospital:
+New paper on prostate cancer grade classification accepted at _DICTA 2024_! :hospital:

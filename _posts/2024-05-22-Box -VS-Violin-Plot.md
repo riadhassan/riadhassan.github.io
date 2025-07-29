@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Box Plot vs Violin Plot: Which One is More Powerful for Research Articles?'
+title: "Box Plot vs Violin Plot: Which One is More Powerful for Research Articles?"
 date: 2025-05-22 09:56:00-0400
 description: A comparison of box plots and violin plots for data visualization in research articles with practical examples
 tags: visualization, research, statistics
@@ -32,27 +32,30 @@ Obtained marks in a course of four different sections (Random Data):
 ## Comparative Analysis
 
 ### Box Plot Characteristics:
+
 - Represents distribution using quartiles (Q1, median, Q3) and whiskers
 - Clearly shows median (middle line) and interquartile range (box edges)
 - Identifies outliers as individual points
 - Effective for comparing central tendency and spread between groups
 
 ### Violin Plot Characteristics:
+
 - Combines box plot statistics with kernel density estimation
 - Width represents probability density at different values
 - Reveals multimodal distributions and subtle patterns
 - Shows quartiles and median within the density shape (white dot)
 
-
 ## Use Case Recommendations
 
 ### When to Use Box Plots
+
 1. For concise statistical summaries
 2. When comparing central tendency across groups
 3. For identifying outliers in large datasets
 4. When space constraints exist (multiple subplots)
 
 ### When to Use Violin Plots
+
 1. To reveal distribution shapes and density
 2. When analyzing multimodal distributions
 3. For small-to-medium sized datasets
@@ -61,7 +64,7 @@ Obtained marks in a course of four different sections (Random Data):
 ## Implementation Example
 
 ```python
-import seaborn as sns 
+import seaborn as sns
 import matplotlib.pyplot as plt
 
 section_a = [78, 83, 85, 88, 90, 92, 94, 95, 97, 98]

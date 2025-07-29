@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Collaborative research with Charles Sturt University published in *IEEE Access*! Check out our work on "[Eye Tracking and Saliency Modeling](https://ieeexplore.ieee.org/abstract/document/9887942)" :eyes: [Q1, IF: 3.476]
+Collaborative research with Charles Sturt University published in _IEEE Access_! Check out our work on "[Eye Tracking and Saliency Modeling](https://ieeexplore.ieee.org/abstract/document/9887942)" :eyes: [Q1, IF: 3.476]
