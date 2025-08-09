@@ -2,14 +2,14 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-description: A growing collection of your cool projects.
+description: The courses I teach as lecturer
 nav: true
 nav_order: 3
 display_categories: [Fall 25, Summer 25]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/teaching.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -17,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign categorized_projects = site.teaching | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.teaching | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
