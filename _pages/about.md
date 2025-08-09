@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Researcher & Lecturer
 
@@ -63,8 +63,8 @@ latest_posts:
   limit: 3
 ---
 
-I am **Riad Hassan**, a researcher and lecturer with a strong focus on **computer vision, medical image analysis, and deep learning**. I hold an MSc from Bangladesh University of Engineering and Technology **(BUET)** (GPA 3.92/4.00, top 1%), where my thesis introduced a **uncertainty-driven boundary-refined CNN for medical image segmentation**.
+I am Riad Hassan, a research fellow and lecturer specializing in **computer vision, medical image analysis, and deep learning**. I hold an MSc from **BUET** (GPA 3.92/4.00, top 1%), where I developed an **uncertainty-driven boundary-refined CNN** for medical image segmentation.
 
-My research contributions include **efficient segmentation networks, attention-based architectures, adaptive loss functions for small tumor segmentation, and radiomics-driven cancer classification**, with publications in leading journals and conferences such as **PLOS ONE** and **IEEE ISBI**. I am also part of the [BioRAIN research group](https://biorainlab.net/), collaborating on cutting-edge projects in biomedical imaging and AI.
+With a proven record of publications in venues such as **IEEE ISBI** and **PLOS ONE**, my research focuses on **efficient segmentation networks, attention-based architectures, and adaptive loss functions**—with source code openly available. As part of the [BioRAIN research group](https://biorainlab.net/), I work on cutting-edge projects bridging **AI and healthcare**.
 
-I am now actively **seeking a PhD opportunity** in the fields of **computer vision, deep learning, and medical imaging**, aiming to advance research on **robust segmentation models, multi-scale feature learning, and uncertainty quantification**. With hands-on experience in Python, PyTorch, and large-scale experimentation, I bring both technical expertise and a proven research record. My goal is to contribute to impactful, interdisciplinary research that bridges **AI and real-world healthcare challenges**.
+I am seeking a **PhD opportunity** to conduct impactful research and publish in leading journals (**TMI, PAMI, MIA, TIP**) and conferences (**CVPR, MICCAI, MIDL, ISBI, ICLR, ECCV**). I bring expertise in **Python, PyTorch, and large-scale experimentation**, aiming to advance the state of the art in **medical imaging and AI**.
