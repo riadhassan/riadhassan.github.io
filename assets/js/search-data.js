@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "A growing collection of your cool projects.",
+          description: "The courses I teach as lecturer",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -89,6 +89,11 @@ ninja.data = [{
           description: "Funded by ICT Division",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Efficient_Organ_Segmentation/";
+            },},{id: "teaching-machine-learning",
+          title: 'Machine Learning',
+          description: "Theory &amp; Lab",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/Machine_Learning/";
             },},{
         id: 'social-email',
         title: 'email',
