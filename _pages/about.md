@@ -63,7 +63,7 @@ latest_posts:
   limit: 3
 ---
 
-I am Riad Hassan, a research fellow and lecturer specializing in **computer vision, medical image analysis, and deep learning**. I hold an MSc from **BUET** (GPA 3.92/4.00, top 1%), where I developed an **uncertainty-driven boundary-refined CNN** for medical image segmentation.
+I am Riad Hassan, a passionate researcher and lecturer specializing in **computer vision, medical image analysis, and deep learning**. I hold an MSc from **BUET** (GPA 3.92/4.00, top 1%), where I developed an **uncertainty-driven boundary-refined CNN** for medical image segmentation.
 
 With a proven record of publications in venues such as **IEEE ISBI** and **PLOS ONE**, my research focuses on **efficient segmentation networks, attention-based architectures, and adaptive loss functions**—with source code openly available. As part of the [BioRAIN research group](https://biorainlab.net/), I work on cutting-edge projects bridging **AI and healthcare**.
 
