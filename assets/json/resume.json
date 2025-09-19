@@ -122,6 +122,14 @@
       "publisher": "Array",
       "releaseDate": "2025",
       "url": "https://doi.org/10.1016/j.array.2025.100413"
+    },
+    {
+      "name": "An efficient dual-line decoder network with multi-scale convolutional attention for multi-organ segmentation",
+      "publisher": "Biomedical Signal Processing and Control",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1016/j.bspc.2025.108611",
+      "pdf": "https://authors.elsevier.com/c/1lmTx_djyJXjq2",
+      "code": "https://github.com/riadhassan/EDLDNet"
     }
   ],
   "certificates": [
