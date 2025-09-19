@@ -81,7 +81,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-on-prostate-cancer-grade-classification-has-been-presented-at-dicta-2024",
           title: 'New paper on prostate cancer grade classification has been presented at DICTA 2024....',
           description: "",
-          section: "News",},{id: "news-successfully-completed-msc-from-buet-thesis-uncertainty-driven-boundary-refined-cnn-for-medical-image-segmentation-graduation-cap",
+          section: "News",},{id: "news-successfully-completed-msc-from-buet-thesis-uncertainty-driven-boundary-refined-cnn-for-medical-image-segmentation",
           title: 'Successfully completed MSc from BUET! Thesis: Uncertainty driven boundary refined CNN for medical...',
           description: "",
           section: "News",},{id: "news-our-paper-on-object-detection-in-adverse-weather-has-been-presented-at-sti-2024",
