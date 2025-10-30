@@ -124,6 +124,12 @@
 			"url": "https://doi.org/10.1016/j.array.2025.100413"
 		},
 		{
+			"name": "Size and Smoothness Aware Adaptive Focal Loss for Small Tumor Segmentation",
+			"publisher": "arXiv",
+			"releaseDate": "2025",
+			"url": "https://arxiv.org/abs/2407.09828"
+		},
+		{
 			"name": "An efficient dual-line decoder network with multi-scale convolutional attention for multi-organ segmentation",
 			"publisher": "Biomedical Signal Processing and Control",
 			"releaseDate": "2026",
