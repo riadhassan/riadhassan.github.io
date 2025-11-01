@@ -15,5 +15,5 @@ Accurate segmentation of organs-at-risk (OAR) in CT scans is critical for radiat
 The framework leverages **multi-scale feature extraction** and context-aware refinement to enhance segmentation quality. During training, a noise-augmented decoder exposes the model to realistic imaging variability, while the noise-free decoder ensures optimal performance during inference. Benchmarking against state-of-the-art models (e.g., TransUNet, SwinUNet) validates our approach’s superiority in both accuracy and speed. This solution bridges the gap between research and clinical deployment, prioritizing both precision and accessibility.
 
 ## Publication
-1. An efficient dual-line decoder network with multi-scale convolutional attention for multi-organ segmentation. {% cite HASSAN2026108611 %}
 
+1. An efficient dual-line decoder network with multi-scale convolutional attention for multi-organ segmentation. {% cite HASSAN2026108611 %}
