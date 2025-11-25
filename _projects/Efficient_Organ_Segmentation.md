@@ -8,7 +8,7 @@ category: Research
 related_publications: True
 ---
 
-## Development of an efficient deep learning based for multi-organ segmentation from CT scan
+## Development of an efficient deep learning based network for multi-organ segmentation from CT scan
 
 Accurate segmentation of organs-at-risk (OAR) in CT scans is critical for radiation therapy and diagnostics, yet traditional manual methods are time-consuming and error-prone. While deep learning models like UNet and Vision Transformers (ViTs) have improved precision, they often **struggle with computational inefficiency and sensitivity to noisy data**. Our project addresses these gaps by developing an AI-powered framework that combines noise-adaptive training with lightweight inference, enabling real-time OAR segmentation even on low-resource devices. By integrating a dual-decoder architecture—one trained on noisy data for robustness and another kept clean for efficient deployment—we ensure both accuracy and practicality for clinical use.
 
