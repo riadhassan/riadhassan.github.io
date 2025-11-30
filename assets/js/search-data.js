@@ -98,6 +98,11 @@ ninja.data = [{
           description: "Funded by ICT Division",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Efficient_Organ_Segmentation/";
+            },},{id: "teaching-data-mining",
+          title: 'Data Mining',
+          description: "Theory &amp; Lab",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/Data_Mining_Fall_2025/";
             },},{id: "teaching-machine-learning",
           title: 'Machine Learning',
           description: "Theory &amp; Lab",
