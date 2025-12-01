@@ -59,20 +59,20 @@ Upon successful completion of this course, students will be able to:
 
 ### Topic Outline
 
-| Class | Topic                                                                                                                                  |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Introduction                                                                                                                           |
-| 2-6   | Supervised Learning (Regression, Classification, Linear/Logistic Regression, Cost Functions, Optimization) - **Assignment 1**          |
-| 7-10  | Bayesian Decision Theory (Probability, Uncertainty, Likelihood, Posterior, Naive Bayes)                                                |
-| 11-12 | Parametric and Non-parametric Methods for Density Estimation - **Quiz 1**                                                              |
-| 13-14 | Unsupervised Learning (Association Rules, K-Means Clustering)                                                                          |
-| 15    | **Midterm Exam**                                                                                                                       |
-| 16-19 | Perceptron & Multilayer Perceptrons (ANN Architecture, Cost Function, Backpropagation, SGD, Hyperparameter Tuning) - **Group Project** |
-| 20-21 | Introduction to Graphical Models - **Quiz 2**                                                                                          |
-| 22-25 | Time Series Modeling / Online Learning (Markov Models, Hidden Markov Models, Bayesian Networks)                                        |
-| 26-28 | Reinforcement Learning (Markov Decision Processes, Q-learning)                                                                         |
-| 29-30 | Design and Analysis of Machine Learning Experiments                                                                                    |
-|       | **Final Exam**                                                                                                                         |
+| Lecture | Topic                                                                                                                                  |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | Introduction                                                                                                                           |
+| 2-6     | Supervised Learning (Regression, Classification, Linear/Logistic Regression, Cost Functions, Optimization) - **Assignment 1**          |
+| 7-10    | Bayesian Decision Theory (Probability, Uncertainty, Likelihood, Posterior, Naive Bayes)                                                |
+| 11-12   | Parametric and Non-parametric Methods for Density Estimation - **Quiz 1**                                                              |
+| 13-14   | Unsupervised Learning (Association Rules, K-Means Clustering)                                                                          |
+| 15      | **Midterm Exam**                                                                                                                       |
+| 16-19   | Perceptron & Multilayer Perceptrons (ANN Architecture, Cost Function, Backpropagation, SGD, Hyperparameter Tuning) - **Group Project** |
+| 20-21   | Introduction to Graphical Models - **Quiz 2**                                                                                          |
+| 22-25   | Time Series Modeling / Online Learning (Markov Models, Hidden Markov Models, Bayesian Networks)                                        |
+| 26-28   | Reinforcement Learning (Markov Decision Processes, Q-learning)                                                                         |
+| 29-30   | Design and Analysis of Machine Learning Experiments                                                                                    |
+|         | **Final Exam**                                                                                                                         |
 
 ---
 

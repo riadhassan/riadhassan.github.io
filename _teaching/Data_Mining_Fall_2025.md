@@ -4,7 +4,7 @@ title: Data Mining
 description: Theory & Lab
 img: assets/img/DM.png
 importance: 1
-category: Fall 2025
+category: Fall 25
 related_publications: false
 ---
 
