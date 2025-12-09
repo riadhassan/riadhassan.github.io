@@ -6,7 +6,7 @@ subtitle: Researcher & Lecturer
 
 profile:
   align: right
-  image: Riad_profile.jpg
+  image: Riad_Hassan_Profile.png
   image_circular: false
   more_info: >
     <p>Riad Hassan</p>
