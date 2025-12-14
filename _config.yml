@@ -13,8 +13,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   This template is slightly modified from 
   <a href="https://github.com/alshedivat/al-folio" target="_blank" style="text-decoration:none; color:inherit;">
-    al-folio
-  </a>.
+    al-folio.
+  </a>
 keywords: Riad, Riad-Hassan, Riad Hassan, Computer Vision, Medical Imaging, Segmentation, Researcher, Deep Learning, Riad academic-website, Riad portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: fab_icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
