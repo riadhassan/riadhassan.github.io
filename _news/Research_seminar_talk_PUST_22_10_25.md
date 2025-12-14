@@ -14,8 +14,8 @@ Beyond the technical roadmap, we talked honestly about the practical realities o
 
 You can view the full presentation slides below:
 
-<iframe src="/assets/pdf/Seminar_on_start_research_work.pdf" width="100%" height="350px" style="border: 1px solid #ccc;">
-    Your browser does not support PDFs. <a href="/assets/pdf/Research_Seminar_Grow_Your_Knowledge.pdf">Download the PDF instead.</a>
+<iframe src="{{ site.baseurl }}/assets/pdf/Seminar_on_start_research_work.pdf" width="100%" height="350px" style="border: 1px solid #ccc;">
+    Your browser does not support PDFs. <a href="{{ site.baseurl }}/assets/pdf/Seminar_on_start_research_work.pdf">Download the PDF instead.</a>
 </iframe>
 
 **Download:** [Seminar_on_start_research_work.pdf](/assets/pdf/Research_Seminar_Grow_Your_Knowledge.pdf)
