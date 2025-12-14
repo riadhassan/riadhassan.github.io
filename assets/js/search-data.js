@@ -93,7 +93,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-edldnet-an-efficient-dual-line-decoder-with-multi-scale-convolutional-attention-for-multi-organ-segmentation-has-been-published-in-biomedical-signal-processing-and-control-q1-if-4-9",
           title: 'Our paper EDLDNet: An efficient dual-line decoder with multi-scale convolutional attention for multi-organ...',
           description: "",
-          section: "News",},{id: "projects-efficient-multi-organ-segmentation",
+          section: "News",},{id: "news-guiding-undergraduate-researchers-a-seminar-at-pabna-university-of-science-and-technology",
+          title: 'Guiding Undergraduate Researchers – A Seminar at Pabna University of Science and Technology...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/Research_seminar_talk_PUST_22_10_25/";
+            },},{id: "projects-efficient-multi-organ-segmentation",
           title: 'Efficient Multi-Organ Segmentation',
           description: "Funded by ICT Division",
           section: "Projects",handler: () => {
