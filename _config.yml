@@ -15,7 +15,7 @@ footer_text: >
   <a href="https://github.com/alshedivat/al-folio" target="_blank" style="text-decoration:none; color:inherit;">
     al-folio.
   </a>
-keywords: Riad, Riad-Hassan, Riad Hassan, Computer Vision, Medical Imaging, Segmentation, Researcher, Deep Learning, Riad academic-website, Riad portfolio-website # add your own keywords or leave empty
+keywords: Riad, Riad-Hassan, Riad Hassan, Computer Vision, Medical Imaging, Segmentation, Researcher, Deep Learning, Riad academic-website, Riad portfolio-website, Md Riad Hassan, riadhassan, Md. Riad Hassan # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: fab_icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -258,16 +258,16 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: [] # these tags will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Hassan]
+  first_name: [Riad, R.]
 
   style: apa
   locale: en
