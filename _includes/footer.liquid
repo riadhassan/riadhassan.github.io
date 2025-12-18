@@ -21,21 +21,71 @@
       {% include newsletter.liquid %}
     {% endif %}
     <div class="social">
-      <p>
-        <span id="my-email">a_so@.ronutadahiskcaml</span>
+      <p style="margin:0px">
+        <b>Email:</b>
+        <span id="my-email"></span>
+
+        <script>
+          document.getElementById('my-email').textContent = 'a_so@.ronutadahiskcaml'
+            .split('')
+            .sort(() => 0.5 - Math.random())
+            .join('');
+        </script>
         <a
           href="#"
           onclick="
+            const btn = this;
+            const emailElement = document.getElementById('my-email');
+            const originalText = emailElement.textContent;
+
+            btn.textContent = 'Unscrambling...';
+            btn.style.pointerEvents = 'none';
+            btn.style.color = '#999';
+
+            emailElement.style.display = 'inline-block';
+            emailElement.style.transition = 'all 0.5s';
+
             const s = 'aoulhd@rnotamssko_cioa.';
             const k = [9, 12, 13, 15, 5, 3, 11, 0, 10, 16, 14, 2, 22, 8, 7, 18, 21, 4, 20, 1, 17, 6, 19];
             let e = [];
             for(let i = 0; i < k.length; i++) e[k[i]] = s[i];
+            const decodedEmail = e.join('');
 
-            const email = e.join('');
+            let step = 0;
+            const animateUnscramble = () => {
+                if (step >= 20) {
+                    emailElement.textContent = decodedEmail;
+                    emailElement.style.animation = 'none';
+                    emailElement.style.transform = 'translateY(0)';
+                    emailElement.style.opacity = '1';
+                    emailElement.style.color = '#000';
 
-            document.getElementById('my-email').textContent = email;
+                    setTimeout(() => {
+                        btn.remove();
+                    }, 300);
+                    return;
+                }
 
-            this.remove();
+                emailElement.style.transform = `translateY(${Math.sin(step * 2) * 3}px)`;
+                emailElement.style.opacity = (0.3 + (step / 20) * 0.7).toString();
+
+                let displayText = '';
+                for (let i = 0; i < decodedEmail.length; i++) {
+                    if (i < Math.floor(step * decodedEmail.length / 20)) {
+                        displayText += decodedEmail[i];
+                    } else {
+                        const chars = 'abcdefghijklmnopqrstuvwxyz@._0123456789';
+                        displayText += chars[Math.floor(Math.random() * chars.length)];
+                    }
+                }
+
+                emailElement.textContent = displayText;
+                step++;
+                setTimeout(animateUnscramble, 50); // 50ms between steps
+            };
+
+            // Start animation
+            animateUnscramble();
             return false;
           "
           style="margin-left:8px;"
