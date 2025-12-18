@@ -9,45 +9,26 @@ profile:
   image: Riad_Hassan_Profile.png
   image_circular: false
   more_info: >
-    <p>Riad Hassan</p>
-    <p>riad_hassan@outlook.com</p>
-
-    <div class="social" style="text-align: left;">
-      <div class="contact-icons" style="font-size: 1.5rem;">
-        <a
-          href="mailto:riad_hassan@outlook.com"
-          target="_blank"
-          style="color: #000; text-decoration: none;"
-          title="Email"
-        >
-          <i class="fa-solid fa-envelope"></i>
-        </a>
-        <a
-          href="https://github.com/riadhassan"
-          target="_blank"
-          style="color: #000; text-decoration: none;"
-          title="GitHub"
-        >
-          <i class="fa-brands fa-github"></i>
-        </a>
-        <a
-          href="https://www.linkedin.com/in/riadhassan/"
-          target="_blank"
-          style="color: #000; text-decoration: none;"
-          title="LinkedIn"
-        >
-          <i class="fa-brands fa-linkedin"></i>
-        </a>
-        <a
-          href="https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en"
-          target="_blank"
-          style="color: #000; text-decoration: none;"
-          title="Google Scholar"
-        >
-          <i class="ai ai-google-scholar"></i>
-        </a>
-      </div>
-    </div>
+      <p>
+        <span id="my-email">a_so@.ronutadahiskcaml</span>
+        <a href="#" onclick="
+            // Decode the scrambled email
+            const s = 'aoulhd@rnotamssko_cioa.';
+            const k = [9, 12, 13, 15, 5, 3, 11, 0, 10, 16, 14, 2, 22, 8, 7, 18, 21, 4, 20, 1, 17, 6, 19];
+            let e = [];
+            for(let i = 0; i < k.length; i++) e[k[i]] = s[i];
+            
+            // Get the decoded email
+            const email = e.join('');
+            
+            // Replace the scrambled text with the plain email text
+            document.getElementById('my-email').textContent = email;
+            
+            // Remove the '[show email]' button
+            this.remove();
+            return false;
+        " style="margin-left:8px;font-size:0.9em;color:#666">[Unscramble]</a>
+    </p>
 
 selected_papers: true
 social: true
