@@ -267,7 +267,7 @@ display_categories: [] # these categories will be displayed on the front page of
 
 scholar:
   last_name: [Hassan]
-  first_name: [Riad, R.]
+  first_name: [Riad, R., Md. Riad, Md Riad]
 
   style: apa
   locale: en
