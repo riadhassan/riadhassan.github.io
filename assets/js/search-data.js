@@ -37,25 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "post-box-plot-vs-violin-plot-which-one-is-more-powerful-for-research-articles",
-        
-          title: "Box Plot vs Violin Plot: Which One is More Powerful for Research Articles?...",
-        
-        description: "A comparison of box plots and violin plots for data visualization in research articles with practical examples",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/Box-VS-Violin-Plot/";
-          
-        },
-      },{id: "books-the-godfather",
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
@@ -98,7 +80,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Research_seminar_talk_PUST_22_10_25/";
-            },},{id: "projects-efficient-multi-organ-segmentation",
+            },},{id: "news-upcoming-a-web-based-medical-image-segmentation-visualizer-is-nearing-release",
+          title: 'Upcoming! A web-based medical image segmentation visualizer is nearing release.',
+          description: "",
+          section: "News",},{id: "projects-efficient-multi-organ-segmentation",
           title: 'Efficient Multi-Organ Segmentation',
           description: "Funded by ICT Division",
           section: "Projects",handler: () => {
