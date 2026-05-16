@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "The courses I teach as lecturer",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
@@ -82,6 +75,9 @@ ninja.data = [{
               window.location.href = "/news/Research_seminar_talk_PUST_22_10_25/";
             },},{id: "news-upcoming-a-web-based-medical-image-segmentation-visualizer-is-nearing-release",
           title: 'Upcoming! A web-based medical image segmentation visualizer is nearing release.',
+          description: "",
+          section: "News",},{id: "news-our-paper-application-of-artificial-intelligence-in-vascular-disease-has-been-published-in-sn-computer-science",
+          title: 'Our paper Application of Artificial Intelligence in Vascular Disease has been published in...',
           description: "",
           section: "News",},{id: "projects-efficient-multi-organ-segmentation",
           title: 'Efficient Multi-Organ Segmentation',
