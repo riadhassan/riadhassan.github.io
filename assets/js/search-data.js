@@ -85,7 +85,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-efficient-multi-organ-segmentation",
           title: 'Efficient Multi-Organ Segmentation',
-          description: "Funded by ICT Division",
+          description: "Automated Segmentation Tool",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Efficient_Organ_Segmentation/";
             },},{id: "teaching-data-mining",
