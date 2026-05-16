@@ -62,6 +62,18 @@
   ],
   "publications": [
     {
+      "name": "An efficient dual-line decoder network with multi-scale convolutional attention for multi-organ segmentation",
+      "publisher": "Biomedical Signal Processing and Control",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1016/j.bspc.2025.108611"
+    },
+    {
+      "name": "Artificial Intelligence in Vascular Diseases: A Narrative Review",
+      "publisher": "SN Computer Science",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1007/s42979-026-04992-9"
+    },
+    {
       "name": "UDBRNet: A novel uncertainty driven boundary refined network for organ at risk segmentation",
       "publisher": "PLOS ONE",
       "releaseDate": "2024",

@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 description: The courses I teach as lecturer
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Fall 25, Summer 25]
 horizontal: false
