@@ -5,8 +5,6 @@ Here you can find my
 
 - Publications
 - profile
-- Teaching
-- Blog
 - CV
 - and many more
 

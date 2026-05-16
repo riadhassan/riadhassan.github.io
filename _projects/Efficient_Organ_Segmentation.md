@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Efficient Multi-Organ Segmentation
-description: Funded by ICT Division
+description: Automated Segmentation Tool
 img: assets/img/organ_segmentation.png
 importance: 1
 category: Research
