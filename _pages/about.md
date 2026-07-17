@@ -29,3 +29,7 @@ I am Riad Hassan, a passionate researcher and lecturer specializing in **compute
 With a proven record of publications in venues such as **IEEE ISBI** and **Biomedical Signal Processing and Control**, my research focuses on **efficient deep learning network design, attention-based architectures, and adaptive loss functions**. As part of the [BioRAIN Research Group](https://biorainlab.net/); Data Analytics Lab, [IICT, BUET](https://iict.buet.ac.bd/); and Computer Vision Research Cell, [CSE, GUB](https://cse.green.edu.bd/researchcell/image-processing-and-computer-vision), I contribute to cutting-edge projects in **AI, Computer Vision, and Medical Imaging**.
 
 I am passionate about conducting impactful research and contributing to leading journals (**TMI, PAMI, MIA, TIP**) and conferences (**CVPR, MICCAI, MIDL, ISBI, ICLR, ECCV**). With expertise in **Python, PyTorch, and large-scale experimentation**, my goal is to advance the state of the art in **Computer Vision, Medical Imaging and AI**.
+
+<p align="center">
+  <strong><span style="color:#d32f2f;">🔍 Currently seeking PhD opportunities in Computer Vision, Medical Image Analysis, and AI.</span></strong>
+</p>
