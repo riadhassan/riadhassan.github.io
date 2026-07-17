@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper on **Peripheral Artery Disease Detection (PAD-Net)** has been presented at _IEEE ICHD 2026, Australia_ (contributd as co-author).
+New paper on **Peripheral Artery Disease Detection (PAD-Net)** has been presented at _IEEE ICHD 2026, Australia_ (4th author).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A web-based segmentation visualizer is developed. Link: [3D Segmentation Viewer](https://riadhassan.github.io/3dSegViewer/).
+A web-based segmentation visualizer is developed. Link: [**3D Segmentation Viewer**](https://riadhassan.github.io/3dSegViewer/).
