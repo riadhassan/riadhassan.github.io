@@ -31,5 +31,5 @@ With a proven record of publications in venues such as **IEEE ISBI** and **Biome
 I am passionate about conducting impactful research and contributing to leading journals (**TMI, PAMI, MIA, TIP**) and conferences (**CVPR, MICCAI, MIDL, ISBI, ICLR, ECCV**). With expertise in **Python, PyTorch, and large-scale experimentation**, my goal is to advance the state of the art in efficient **Computer Vision, Medical Imaging and AI**.
 
 <p align="center">
-  <strong><span style="color:#d32f2f;">🔍 I am seeking PhD opportunity in Computer Vision fiend.</span></strong>
+  <strong><span style="color:#d32f2f;">🔍 I am seeking a PhD opportunity in Computer Vision.</span></strong>
 </p>
