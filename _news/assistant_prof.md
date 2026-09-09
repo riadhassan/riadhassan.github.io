@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am propoted to _Assistant Professor_ from _Lecturer_.
+I have been promoted from _Lecturer_ to _Assistant Professor_ in the Department of Computer Science and Engineering, Green University of Bangladesh.
